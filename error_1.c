@@ -1,6 +1,5 @@
 #include "monty.h"
 
-
 /**
  * stderr_usage - usage error.
  * Return: EXIT_FAILURE
@@ -55,4 +54,3 @@ void stderr_unknown(char *token, unsigned int line_number)
 	free_globalvars();
 	exit(EXIT_FAILURE);
 }
-
