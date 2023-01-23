@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "monty.h"
 
 /**
@@ -136,4 +133,3 @@ void nop(stack_t **stack, unsigned int line_number)
 	(void)stack;
 	(void)line_number;
 }
->>>>>>> 476f7634c0a8cbccb4bc8d849eb55f4c892f4de3
